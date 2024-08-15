@@ -1,0 +1,1 @@
+# Simple-RNN-Movie-Review-Sentimental-Analysis
